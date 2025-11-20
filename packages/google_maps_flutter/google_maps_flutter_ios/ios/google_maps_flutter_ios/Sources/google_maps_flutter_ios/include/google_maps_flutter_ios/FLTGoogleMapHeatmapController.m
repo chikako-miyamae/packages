@@ -5,7 +5,7 @@
 #import "FLTGoogleMapHeatmapController.h"
 #import "FLTGoogleMapHeatmapController_Test.h"
 
-@import GoogleMapsUtils;
+@import GoogleMapsUtilsObjC;
 
 #import "FLTGoogleMapJSONConversions.h"
 
