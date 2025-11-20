@@ -8,7 +8,8 @@
 @import GoogleMaps;
 
 #import <OCMock/OCMock.h>
-#import "FGMCATransactionWrapper.h"
+
+#import "../../../../ios/google_maps_flutter_ios/Sources/google_maps_flutter_ios/include/google_maps_flutter_ios/FGMCATransactionWrapper.h"
 #import "PartiallyMockedMapView.h"
 
 @interface FLTGoogleMapFactory (Test)
