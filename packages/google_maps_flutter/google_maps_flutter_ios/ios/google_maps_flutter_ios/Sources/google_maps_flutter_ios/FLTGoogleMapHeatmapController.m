@@ -2,12 +2,13 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-#import "FLTGoogleMapHeatmapController.h"
-#import "FLTGoogleMapHeatmapController_Test.h"
+#import "include/google_maps_flutter_ios/FLTGoogleMapHeatmapController.h"
+
+#import "include/google_maps_flutter_ios/FLTGoogleMapHeatmapController_Test.h"
 
 @import GoogleMapsUtilsObjC;
 
-#import "FLTGoogleMapJSONConversions.h"
+#import "include/google_maps_flutter_ios/FLTGoogleMapJSONConversions.h"
 
 @interface FLTGoogleMapHeatmapController ()
 

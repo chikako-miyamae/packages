@@ -9,7 +9,7 @@
 
 #import <OCMock/OCMock.h>
 
-#import "../../../../ios/google_maps_flutter_ios/Sources/google_maps_flutter_ios/include/google_maps_flutter_ios/FGMCATransactionWrapper.h"
+#import "FGMCATransactionWrapper.h"
 #import "PartiallyMockedMapView.h"
 
 @interface FLTGoogleMapFactory (Test)
