@@ -16,7 +16,6 @@ Downloaded by pub (not CocoaPods).
   s.documentation_url = 'https://pub.dev/packages/google_maps_flutter_ios'
   s.source_files = 'google_maps_flutter_ios/Sources/google_maps_flutter_ios/**/*.{h,m}'
   s.public_header_files = 'google_maps_flutter_ios/Sources/google_maps_flutter_ios/include/**/*.h'
-  s.module_map = 'google_maps_flutter_ios/Sources/google_maps_flutter_ios/include/google_maps_flutter_ios.modulemap'
   s.dependency 'Flutter'
   # Allow any version up to the next breaking change after the latest version that
   # has been confirmed to be compatible via an example in examples/. See discussion
