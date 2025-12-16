@@ -8,7 +8,6 @@
 @import GoogleMaps;
 
 #import <OCMock/OCMock.h>
-
 #import "FGMCATransactionWrapper.h"
 #import "PartiallyMockedMapView.h"
 
